@@ -1,3 +1,14 @@
+# Follow instruction from fossasia blog
+
+https://blog.fossasia.org/how-to-make-susi-ai-line-bot/
+
+How to make SUSI AI Line Bot
+
+install packages:
+npm install @line/bot-sdk
+npm install express
+npm install request 
+
 # Getting Started With Line SUSI AI Bot:
 
 If you want to add SUSI Line bot as a friend Scan this QR Code and if you want to integrate follow steps given below 
