@@ -6,9 +6,13 @@ var request = require('request');
 var http = require('http');
 
 // create LINE SDK config from env variables
+//const config = {
+//    channelAccessToken: process.env.CHANNEL_ACCESS_TOKEN,
+//    channelSecret: process.env.CHANNEL_SECRET,
+//};
 const config = {
-    channelAccessToken: process.env.CHANNEL_ACCESS_TOKEN,
-    channelSecret: process.env.CHANNEL_SECRET,
+    channelAccessToken: 'BSIEhu2kTylLOwgIcoucazg33AAsSKY7a3v2R9q6MfwkCvcDrQ0DG9WAE8My402uK+jJQATeSKiGIGeFQlZv7agN4ByOk9BxqkQ4pssbE2l6Gl/aJ637b1Vvx9wt6jzjqUrF9lf0JIOf3h3j8HA/kgdB04t89/1O/w1cDnyilFU=',
+    channelSecret: 'd86c78309f303510f6d4d4f6d08b6e0c',
 };
 
 // create LINE SDK client
