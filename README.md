@@ -5,9 +5,10 @@ https://blog.fossasia.org/how-to-make-susi-ai-line-bot/
 How to make SUSI AI Line Bot
 
 install packages:
-npm install @line/bot-sdk
-npm install express
-npm install request 
+	npm install @line/bot-sdk
+	npm install express
+	npm install request 
+
 
 # Getting Started With Line SUSI AI Bot:
 
