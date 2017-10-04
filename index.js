@@ -1,5 +1,5 @@
 'use strict';
-
+//https://blog.fossasia.org/how-to-make-susi-ai-line-bot/
 const line = require('@line/bot-sdk');
 const express = require('express');
 var request = require('request');
